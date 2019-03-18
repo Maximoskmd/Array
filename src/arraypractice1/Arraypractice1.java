@@ -15,7 +15,7 @@ public class Arraypractice1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int grades[]={8,15,11,14,6,18};
+        int grades[]={228,15,11,14,6,18};
         int max=0;
         int thesi_max=0;
         for(int i=0; i<grades.length;i++){
